@@ -2,7 +2,7 @@
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.10+-yellow?style=for-the-badge&logo=python)
-[![Support on BMC](https://img.shields.io/badge/Support_on-BMC-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/fermatauz)
+[![Support on BMC](https://img.shields.io/badge/Support_on-BMC-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/root300dev)
 
 Бот для автоматизации бронирования ресурсов в Информационно-ресурсном центре Узбекского государственного университета мировых языков (УзГУМЯ).
 
